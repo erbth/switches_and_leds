@@ -1,0 +1,25 @@
+# Vim's *.swp files and other vim files
+*.swp
+*.vim
+
+# objects, listings, etc.
+*.obj
+*.cof
+*.elf
+*.map
+*.a90
+*.sym
+*.lnk
+*.lss
+*.o
+*.lst
+*.s
+*.d
+.dep
+
+# Jupyter-notebook checkpoints
+.ipynb_checkpoints
+
+# Kicad files
+*.bak
+_saved_*.sh
